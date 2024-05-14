@@ -40,13 +40,13 @@ font-style: normal
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #404bbf;
+    color: #434455;
  }
  .link:hover, .link:focus {
-color: #4d5ae5;
+color: #404bbf;
  }
- .navigation-link-studio:active {
-color: #4d5ae5;
+ .navigation-link:active {
+color: #404bbf;;
  }
  .section-solution {
 background-color: #2e2f42;
@@ -128,4 +128,6 @@ background-color: #2e2f42;
 .footer {
     background-color: #2e2f42;
 }
-
+.footer-logo-color {
+    color: #f4f4fd
+}

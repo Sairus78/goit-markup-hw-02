@@ -81,7 +81,7 @@ background-color: #2e2f42;
         cursor: pointer;
     }
  .button:hover, .button:focus {
- color: #404BBF;
+ background-color: #404BBF;
  }
  .title {
     font-weight: 500;
@@ -98,7 +98,7 @@ background-color: #2e2f42;
         color: #434455;
  }
  .section-team {
-    color: #F4F4FD;
+    background-color: #F4F4FD;
  }
  .team-title-section, .portfolio-section-title {
     font-weight: 700;
@@ -124,6 +124,8 @@ background-color: #2e2f42;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-        background: #2e2f42;
+       }
+.footer {
+    background-color: #2e2f42;
 }
 
